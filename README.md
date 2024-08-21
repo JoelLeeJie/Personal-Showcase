@@ -14,4 +14,5 @@ Created using FFmpeg (video decoder) and SDL2 (output), in C++.
 # Game Project (Team of 5)  
   Showcase: https://youtu.be/ldsFohg6y7M  
 
+A game project I worked on with a team of 5.
 
