@@ -17,7 +17,7 @@ Created using FFmpeg (video decoder) and SDL2 (output), in C++.
 
 A WPF Database app that stores and displays information about Genshin in a compact format.  
 
-Created using PostgreSQL and .NET WPF, in C#  
+Created using PostgreSQL (database) and .NET WPF (front-facing), in C#  
 
 # Game Project (Team of 5)  
   Showcase: https://youtu.be/ldsFohg6y7M  
